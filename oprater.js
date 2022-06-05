@@ -1,0 +1,14 @@
+let num1 = 10;
+let num2 = 20;
+let sum = num1 + num2;
+let sub = num1 - num2;
+let multi = num1 * num2
+let div = num1 / num2;
+let mod = num1 % num2;
+console.log(" Num 1 is = " + num1);
+console.log(" Sum  is = " + sum);
+console.log(" Sub  is = " + sub);
+console.log(" multi  is = " + multi);
+console.log(" Div  is = " + div);
+console.log(" Mod   is = " + mod);
+console.log(" Num 2 is = " + num2);
